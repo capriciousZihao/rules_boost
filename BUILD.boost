@@ -860,7 +860,7 @@ boost_library(
         ":type",
         ":type_traits",
         ":utility",
-        "@net_zlib_zlib//:zlib",
+        "@zlib_archive//:zlib",
         "@org_bzip_bzip2//:bz2lib",
         "@org_lzma_lzma//:lzma",
     ],
